@@ -1,0 +1,8 @@
+{
+  "name": "Min Arbejdsplads",
+  "description": "Nordic B2B enterprise workplace mobile application for shift scheduling, time tracking, communications, and employee self-service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
